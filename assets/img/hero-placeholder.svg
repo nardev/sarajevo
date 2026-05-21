@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 600" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#3a342a"></stop>
+      <stop offset="1" stop-color="#1a1610"></stop>
+    </linearGradient>
+    <pattern id="stripes" width="22" height="22" patternUnits="userSpaceOnUse" patternTransform="rotate(35)">
+      <rect width="22" height="22" fill="#221d15"></rect>
+      <rect width="11" height="22" fill="#2a241b"></rect>
+    </pattern>
+  </defs>
+  <rect width="1600" height="600" fill="url(#sky)"></rect>
+  <rect width="1600" height="600" fill="url(#stripes)" opacity="0.55"></rect>
+  
+  <path d="M0 320 L120 290 L240 305 L360 270 L520 285 L680 260 L840 280 L1000 250 L1160 275 L1320 245 L1460 265 L1600 240 L1600 600 L0 600 Z" fill="#1a160f" opacity="0.7"></path>
+  
+  <path d="M0 420 L60 410 L80 430 L140 415 L180 440 L240 420 L260 445 L320 425 L360 450 L420 430 L440 460 L500 435 L540 465 L600 440 L640 470 L700 445 L740 475 L800 450 L840 480 L900 455 L940 485 L1000 460 L1040 490 L1100 465 L1140 495 L1200 470 L1240 500 L1300 475 L1340 505 L1400 480 L1440 510 L1500 485 L1540 515 L1600 490 L1600 600 L0 600 Z" fill="#0f0c08" opacity="0.85"></path>
+  
+  <rect x="1300" y="240" width="10" height="200" fill="#0a0805"></rect>
+  <polygon points="1305,210 1295,240 1315,240" fill="#0a0805"></polygon>
+  <g font-family="ui-monospace, monospace" fill="#8a8478" font-size="14" opacity="0.7">
+    <text x="40" y="560">[ hero photograph – Sarajevo old town ]</text>
+  </g>
+</svg>

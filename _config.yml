@@ -1,0 +1,42 @@
+# ------------------------------------------------------------
+# Sarajevo in Songs — Jekyll configuration
+# ------------------------------------------------------------
+
+title:        "Sarajevo u Pjesmama"
+tagline:      "Kolekcija pjesama koje spominju Sarajevo. Istražite tekstove, priče i videa."
+description:  "Odabrani katalog pjesama koje spominju Sarajevo — tekstovi, priče, videa i linkovi."
+author:       "Sarajevo u Pjesmama"
+url:          "https://sarajevo.life"
+baseurl:      ""                          # e.g. "/sarajevo-in-songs" if served from a sub-path
+
+# Build
+markdown:  kramdown
+permalink: pretty
+timezone:  Europe/Sarajevo
+
+# Plugins (works on github-pages too)
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# What to exclude from the build
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+
+# Default front-matter
+defaults:
+  - scope: { path: "" }
+    values:
+      layout: default
+
+# Footer / nav data accessible as site.nav
+nav:
+  - { label: "O projektu", url: "/about/" }
+  - { label: "Kontakt",    url: "/contact/" }
+
+footer:
+  year:  2026
+  city:  "Sarajevo"

@@ -1,0 +1,13 @@
+<header class="hero">
+  <div class="hero_bg">
+    {%- if site.hero_image -%}
+      <img src="{{ site.hero_image | relative_url }}" alt="" />
+    {%- else -%}
+      <img src="{{ '/assets/img/header-bg-01.png' | relative_url }}" alt="" />
+    {%- endif -%}
+  </div>
+  <div class="container">
+    <h1 class="hero_title">{{ site.title }}<span class="note">&#9835;</span></h1>
+    <p class="hero_sub">{{ site.tagline | newline_to_br }}</p>
+  </div>
+</header>

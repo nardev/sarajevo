@@ -1,0 +1,11 @@
+<footer class="footer">
+  <div class="footer_left">
+    <p>&copy; {{ site.footer.year }} {{ site.title }}</p>
+    <p>Napravljeno s <span class="footer_heart">&#9829;</span> u {{ site.footer.city }}u</p>
+  </div>
+  <div class="footer_right">
+    {%- for item in site.nav -%}
+      <a href="{{ item.url | relative_url }}">{{ item.label }}</a>
+    {%- endfor -%}
+  </div>
+</footer>

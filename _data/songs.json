@@ -1,0 +1,7296 @@
+{
+  "meta": {
+    "description": "Music collection related to Sarajevo",
+    "total": 200,
+    "downloaded": 196,
+    "missing": 4,
+    "sorted_by": "artist",
+    "tags": [
+      {
+        "slug": "all",
+        "label": "All"
+      },
+      {
+        "slug": "sevdah",
+        "label": "Sevdah"
+      },
+      {
+        "slug": "rock",
+        "label": "Rock"
+      },
+      {
+        "slug": "war",
+        "label": "War"
+      },
+      {
+        "slug": "yugoslavia",
+        "label": "Yugoslavia"
+      },
+      {
+        "slug": "nostalgia",
+        "label": "Nostalgia"
+      },
+      {
+        "slug": "love",
+        "label": "Love"
+      },
+      {
+        "slug": "folk",
+        "label": "Folk"
+      },
+      {
+        "slug": "hip-hop",
+        "label": "Hip-Hop"
+      }
+    ]
+  },
+  "entries": [
+    {
+      "id": 1,
+      "title": "Dok Miljacka protiče",
+      "artist": "Crvena Jabuka",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/1.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": "Tu noć stigla je u naš mali grad\nOd tada u srcu mome ostala\nZastala i rekla 'ko si ti\nDa u život uđeš mi\nZa dan ja zavolio sam te\nI sve imenom tvojim počinje\nZa dan došla si i nestala\nKao san mi trajala\nDok Miljacka protiče\nJa ću te voljeti\nObale dok dotiče\nNeću te preboljeti\nDok Miljacka protiče\nJa ću te voljeti\nObale dok dotiče\nNeću te preboljeti\nTu noć stigla je u naš mali grad\nOd tad u srcu mome ostala\nZastala i rekla 'ko si ti\nDa u život uđeš mi\nZa dan ja zavolio sam te\nI sve imenom tvojim počinje\nZa dan došla si i nestala\nKao san mi trajala\nDok Miljacka protiče\nJa ću te voljeti\nObale dok dotiče\nNeću te preboljeti\nDok Miljacka protiče\nJa ću te voljeti\nObale dok dotiče\nNeću te preboljeti\n(Dok Miljacka protiče\nJa ću te voljeti\nObale dok dotiče\nNeću te preboljeti)\nDok Miljacka protiče\nJa ću te voljeti\nObale dok dotiče\nNeću te preboljeti\nObale dok dotiče\nNeću te preboljeti"
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=4elqYx9_Jtc",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 2,
+      "title": "Ode Hamuš iz Sarajeva",
+      "artist": "Nadrealisti",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/2.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=-VXQuIKU-Dk",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 3,
+      "title": "Sarajevo",
+      "artist": "Ana Bekuta",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/3.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=gXpZFu5ezIw",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 4,
+      "title": "Otvorena pjesma Đorđu",
+      "artist": "Bombaj Štampa",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/4.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=j3r_baAOKo8",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 5,
+      "title": "Pričao sam joj o Sarajevu",
+      "artist": "ZOV",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/5.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=lX8kPt-pbmo",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 6,
+      "title": "Sarajevo",
+      "artist": "Jessica Vale",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/6.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=igxBOkDxGO8",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 7,
+      "title": "Sarajevo behara ti tvoga",
+      "artist": "Nada Mamula",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/7.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=TxEjnI030_w",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 8,
+      "title": "Divno Sarajevo Ilidža te krasi",
+      "artist": "Softić Hamo",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/8.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=sNKUMizwEgY",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 9,
+      "title": "Život je kratak za Sarajevo",
+      "artist": "Abdulah Sidran / Brano Likić",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/9.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=RgAY2XV1hHQ",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 10,
+      "title": "Sarajevske uske staze",
+      "artist": "Aca Mika Alas",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/10.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=yhvPj8s7FQA",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 11,
+      "title": "Sarajka",
+      "artist": "Adnan i Tarik",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/11.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=JbB2Q_hAedI",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 12,
+      "title": "Haj da sam bogdo rumena ružica",
+      "artist": "Aida Music",
+      "year": 2016,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/12.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=6kp1JUVpSb0",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 13,
+      "title": "Čaršija",
+      "artist": "Al Dino",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/13.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=jJAivn0zSAg",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 14,
+      "title": "Sarajevo",
+      "artist": "Almir Ajanović",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/14.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=_uJb8SDsHys",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 15,
+      "title": "Sarajevo",
+      "artist": "Ammar i Fikret feat. Anida, Adnan i Mirza",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/15.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=efFOAoNaeq0",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 16,
+      "title": "Golubica",
+      "artist": "Aprilke",
+      "year": 1985,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/16.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=c5bEf3WMNZQ",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 17,
+      "title": "Grad krovova šarenih",
+      "artist": "Aprilke",
+      "year": 1985,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/17.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=bsJAQ1Xc6tI",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 18,
+      "title": "Nigdje nema Baš-čaršije",
+      "artist": "Aprilke",
+      "year": 1985,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/18.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=CZLG1LMKsa8",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 19,
+      "title": "Pjesma Sarajevu",
+      "artist": "Aprilke",
+      "year": 1985,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/19.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=QKttm57KjBE",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 20,
+      "title": "Saraj-ovasi",
+      "artist": "Aprilke",
+      "year": 1985,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/20.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=l_388eDL8T8",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 21,
+      "title": "Sarajevo spava",
+      "artist": "Aprilke",
+      "year": 1985,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/21.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=2o16Z-hXqXg",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 22,
+      "title": "Sedam šuma",
+      "artist": "Aprilke",
+      "year": 1985,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/22.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=Qc4hKCl9kD0",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 23,
+      "title": "Tebi grade",
+      "artist": "Aprilke",
+      "year": 1985,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/23.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=EuplTJa_T2c",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 24,
+      "title": "Mina",
+      "artist": "Armin Šaković",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/24.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=UuKHVl4khRU",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 25,
+      "title": "Sarajka",
+      "artist": "Badel Band",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/25.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=rJpBF8EQVsQ",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 26,
+      "title": "Avlija stara",
+      "artist": "Bahrija Hadžialić",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/26.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=sFsiqJUFf2U",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 27,
+      "title": "Pediculis Pubis",
+      "artist": "Bijelo Dugme",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/27.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=4ucgfARWlVE",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 28,
+      "title": "Opraštam",
+      "artist": "Biljana Marković i Tifa",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/28.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=IfaHO78wMu4",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 29,
+      "title": "Boy in Black",
+      "artist": "Boy in Black",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/29.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=LCgAENxcrNc",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 30,
+      "title": "Adresa Sarajevo",
+      "artist": "Brano Likić",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/30.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=RaOfL3agsdU",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 31,
+      "title": "Breather",
+      "artist": "Breather",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/31.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=Fc2iygyuEvU",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 32,
+      "title": "Cvijet s Bistrika",
+      "artist": "Crvena Jabuka",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/32.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=SKFInIOxgfQ",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 33,
+      "title": "Duša Sarajeva",
+      "artist": "Crvena Jabuka",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/33.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=v1Iv2p2K79w",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 34,
+      "title": "Fura me",
+      "artist": "Crvena Jabuka",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/34.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=-5-QSTxlCS8",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 35,
+      "title": "On je poput djetata",
+      "artist": "Crvena Jabuka",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/35.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=nnhvqS-NweE",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 36,
+      "title": "Sarajlija",
+      "artist": "Crvena Jabuka",
+      "year": 2013,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/36.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=LbXmOCApaJc",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 37,
+      "title": "Tvoga srca vrata",
+      "artist": "Crvena Jabuka",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/37.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=XboT2o7JufM",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 38,
+      "title": "Wilsonovo",
+      "artist": "Crvena Jabuka",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/38.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=ojTx4wwn55Q",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 39,
+      "title": "Dirlija",
+      "artist": "Crvena Jabuka",
+      "year": 2009,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/39.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=yicqUkpvHIc",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 40,
+      "title": "Story from Sarajevo",
+      "artist": "D.thronE",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/40.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=7qY6AyUpMm0",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 41,
+      "title": "Sarajevo",
+      "artist": "Damir Imamović’s Sevdah Takht",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/41.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=y1pYoQ-0Z0M",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 42,
+      "title": "Razbolje se sultan Sulejman",
+      "artist": "DeeDee Dinko",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/42.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=ikjusZPt9JI",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 43,
+      "title": "Spava Sarajevo",
+      "artist": "Deen",
+      "year": 2004,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/43.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=NPSIkSrw-V8",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 44,
+      "title": "Fotografija",
+      "artist": "Dino Merlin",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/44.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=vQyZkhWpcUQ",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 45,
+      "title": "Je l' Sarajevo gdje je nekad bilo",
+      "artist": "Dino Merlin",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/45.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=t7kp-YYLrUg",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 46,
+      "title": "Pala magla",
+      "artist": "Dino Merlin",
+      "year": 1990,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/46.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=YPV-pP9fCEo",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 47,
+      "title": "Sarajevo",
+      "artist": "Dino Merlin",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/47.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=3ciGo307rk0",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 48,
+      "title": "Ti i ja",
+      "artist": "Dino Merlin",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/48.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=30-T8Xqy36Q",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 49,
+      "title": "Dabogda",
+      "artist": "Dino Merlin feat. Hari Varešanović",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/49.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=ardShamRg58",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 50,
+      "title": "Disco Libido",
+      "artist": "Disco Libido",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/50.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=DNCEPQw6-oE",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 51,
+      "title": "Sarajevo, ti i ja",
+      "artist": "Divlje Jagode",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/51.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=YhPwqHW0lFo",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 52,
+      "title": "Sarajevo",
+      "artist": "Duško Kuliš",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/52.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=esMOZTuB294",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 53,
+      "title": "Sarajevska priča",
+      "artist": "Duško Kuliš",
+      "year": 2021,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/53.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=SFEHDdzvqjc",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 54,
+      "title": "Volim Sarajevo",
+      "artist": "Duško Trifunović",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/54.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=5D437HUWPjs",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 55,
+      "title": "Mina",
+      "artist": "Edin Nala",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/55.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=ac6qsYoMr1E",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 56,
+      "title": "Zlatna Dolina",
+      "artist": "Edo Maajka",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/56.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=jmg1JN_hB9g",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 57,
+      "title": "Volver a Nacer",
+      "artist": "Eduardo Cruz",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/57.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=FPVuUEgxt14",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 58,
+      "title": "Sarajevo, New York, Roma",
+      "artist": "EFC",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/58.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=HjOIZAncjGI",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 59,
+      "title": "Sarajevo",
+      "artist": "EKV",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/59.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=Th_laeEGlqE",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 60,
+      "title": "Sarajevo",
+      "artist": "Elh Kmer",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/60.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=onyEv8TcxG8",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 61,
+      "title": "Mala slatka Sarajka",
+      "artist": "Elvis J Kurtovich",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/61.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=6z04Y4-Lrs4",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 62,
+      "title": "Pjesma Sarajevu",
+      "artist": "Emina Zečaj",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "",
+      "youtube": "",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 63,
+      "title": "Teško meni jadnoj u Saraj'vu samoj",
+      "artist": "Emina Zečaj",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/63.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=BnQu-oX20l8",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 64,
+      "title": "Carigrad se Sarajevu hvali",
+      "artist": "Emina Zečaj Mehmed Garibajčević",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/64.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=BnQu-oX20l8",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 65,
+      "title": "Carigrad se Sarajevu hvali",
+      "artist": "Emina Zečaj",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/65.jpg",
+      "about": "https://soundcloud.com/semir-vranic/emina-ze-aj-koliko-je-eher Saz: ćamil Metijević",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=BnQu-oX20l8",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 66,
+      "title": "Da mi nude Sarajevo",
+      "artist": "Enes Begović",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/66.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=JQi9g_HdPy8",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 67,
+      "title": "Pjesma Sarajevu",
+      "artist": "Enes Kišević",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/67.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=xazaLDH3nCY",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 68,
+      "title": "Sarajevo",
+      "artist": "Erogene Zone",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/68.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=BkhZ-ivtA4g",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 69,
+      "title": "Exit",
+      "artist": "Exit",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/69.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=9Bknnc7xI3Q",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 70,
+      "title": "Kiša ruši grad",
+      "artist": "Fazla",
+      "year": 2024,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/70.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=Wo7DnDdda14",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 71,
+      "title": "Mahala",
+      "artist": "Fazla",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/71.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=AiNCSjT1Pt0",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 72,
+      "title": "Pjesma za Davora",
+      "artist": "Fazla, Bodo, Tifa, Aki i Dado",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/72.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=P2-tibd6cfA",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 73,
+      "title": "Saray De Oro",
+      "artist": "Flory Jagoda",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/73.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=u7eWMkpoa9M",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 74,
+      "title": "Sarajevo moje",
+      "artist": "Gordan Dizdarević Grk",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/74.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=yiVeHGwK_TE",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 75,
+      "title": "Ti u Sarajevu ja u Novom Sadu",
+      "artist": "Griva",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/75.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=Qdfi344XTZ0",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 76,
+      "title": "SA Ghetto",
+      "artist": "H-Block",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/76.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=5vVNstdXGY8",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 77,
+      "title": "Grade moj",
+      "artist": "Halid Bešlić",
+      "year": 1993,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/77.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=poMqnBjri00",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 78,
+      "title": "Sarajevo grade moj",
+      "artist": "Halid Bešlić",
+      "year": 1990,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/78.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=asm17vZaAOg",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 79,
+      "title": "Sarajka djevojka",
+      "artist": "Halid Bešlić",
+      "year": 1988,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/79.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=w71pgSu1J3Q",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 80,
+      "title": "Zaplakala Bosna",
+      "artist": "Halid Muslimović",
+      "year": 1993,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/80.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=dKqovk2I7sA",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 81,
+      "title": "A gdje je ona: Sarajevska furka",
+      "artist": "Hari Mata Hari",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/81.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=9pePZXAbp_0",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 82,
+      "title": "Igrale se delije",
+      "artist": "Hari Mata Hari",
+      "year": 1998,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/82.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=9CZS19kWHEE",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 83,
+      "title": "Sarajevo",
+      "artist": "Hari Mata Hari",
+      "year": 2016,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/83.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=76dMImZE5YU",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 84,
+      "title": "Zaplakala Bosna",
+      "artist": "Harun Mehmedagić",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/84.jpg",
+      "about": "Ogrinalno Halid Muslimovic",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=SaxPdrq9m1s",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 85,
+      "title": "Kono Sarajko",
+      "artist": "Ferid Avdic i Hasiba Agić",
+      "year": 1998,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/85.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=US80oaEN9r4",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 86,
+      "title": "Sarajevo behara ti tvoga",
+      "artist": "Hasiba Agić",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/86.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=uK0cuecqFgU",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 87,
+      "title": "Sarajevo grad",
+      "artist": "Hasiba Agić",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/87.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=4589NznjT4I",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 88,
+      "title": "Sarajevo",
+      "artist": "Hayat",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/88.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=TGyLto9Fa9Q",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 89,
+      "title": "Sarajevska noć",
+      "artist": "Henda",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/89.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=yDyF-5JChXU",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 90,
+      "title": "Svjetla moga grada",
+      "artist": "Henda",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/90.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=SV2aaNIdetQ",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 91,
+      "title": "Svjetla moga grada / Stara staza / Sarajevo",
+      "artist": "Henda",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/91.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=b4GQ7Tum62g",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 92,
+      "title": "Prinser av Sarajevo",
+      "artist": "Honningbarna",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/92.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=EBsLfe5EFvg",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 93,
+      "title": "Intro",
+      "artist": "Intro",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/93.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=sMj5oyF8MWw",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 94,
+      "title": "Sarajka djevojka majci plakala",
+      "artist": "Intro",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "",
+      "youtube": "",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=9R8svmN4PzY",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 95,
+      "title": "21 Sarajevo",
+      "artist": "Jaromír Nohavica",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/95.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=3N1Ko8SDZlc",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 96,
+      "title": "Song For Sarajevo",
+      "artist": "Judy Collins",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/96.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=46ss5p3KSps",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 97,
+      "title": "Cvećar",
+      "artist": "Keba",
+      "year": 2010,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/97.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=UvgaaGvyZVE",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 98,
+      "title": "Pismo prijatelju",
+      "artist": "Kemal Monteno",
+      "year": 1992,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/98.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=70HlBb4cZO4",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 99,
+      "title": "Sarajevo, Ljubavi Moja",
+      "artist": "Kemal Monteno",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/99.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=kcl793bhKcA",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 100,
+      "title": "Zaleđena česma",
+      "artist": "Kemal Monteno i Fuad Backović",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/100.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=WfIIZLNyLzo",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 101,
+      "title": "Sarajevo",
+      "artist": "Klose",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "",
+      "youtube": "",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 102,
+      "title": "Sarajevo",
+      "artist": "Kontra",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/102.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=HNxqLrhNlDI",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 103,
+      "title": "Sarajevo",
+      "artist": "Kućna Radinost",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/103.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=cj0qP4LBP_4",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 104,
+      "title": "Sarajevo",
+      "artist": "Kultur Shock",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/104.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=ufLtq-0Ue1g",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 105,
+      "title": "Igraj dragi",
+      "artist": "Lepa Brena",
+      "year": 1989,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/105.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=RkuBZyNWezs",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 106,
+      "title": "Look Pretty",
+      "artist": "Look Pretty",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/106.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=enIFejGztJ0",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 107,
+      "title": "Sarajevo",
+      "artist": "Loz Contreras",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "",
+      "youtube": "",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=dIw5IylwPcA",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 108,
+      "title": "Sarajevo",
+      "artist": "Loz Contreras",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/108.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=Fnp7p-xh5hk",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 109,
+      "title": "Διακοπες στο Sarajevo",
+      "artist": "Magic De Spell",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/109.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=74eJGQFgbMo",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 110,
+      "title": "Sarajka, ljepota djevojka",
+      "artist": "Maid Mirojević",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/110.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=9D-QV5zGvus",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 111,
+      "title": "Šibicari",
+      "artist": "Maid Mirojević",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/111.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=YGXqccEsQKM",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 112,
+      "title": "Sarajevo u duši mi spavaš",
+      "artist": "Maja Milinković",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/112.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=aV3jMytI5So",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 113,
+      "title": "Šta će daljine",
+      "artist": "Maja Milinković",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/113.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=-WyRyhkN1ss",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 114,
+      "title": "Grade moj",
+      "artist": "MaJaBa",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/114.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=5If0mcQB3hE",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 115,
+      "title": "Plesi",
+      "artist": "Mala Vita",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/115.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=CueKs5-LamI",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 116,
+      "title": "Raj za avanturiste",
+      "artist": "Marko Louis",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/116.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=Q9f6F2fPHSM",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 117,
+      "title": "Dom",
+      "artist": "Marko Louis feat. Masha",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/117.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=nD8UVK4XJ4I",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 118,
+      "title": "Sarajevo",
+      "artist": "Max Richter",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/118.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=CqKUHRM_Lzc",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 119,
+      "title": "Sarajevo",
+      "artist": "Maximum Power",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/119.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=PT1aQ7OgsH8",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 120,
+      "title": "Microphone",
+      "artist": "Microphone",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/120.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=bqbbgx29duQ",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 121,
+      "title": "Moje Sarajevo",
+      "artist": "Milić Vukašinović",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/121.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=D6C38TuX_NU",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 122,
+      "title": "To je moj grad: Sarajevo",
+      "artist": "Milić Vukašinović",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/122.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=TRaJQtaV6aw",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 123,
+      "title": "Rođen u Sarajevu",
+      "artist": "Mjesečari",
+      "year": 1997,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/123.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=z0wEJxf8ces",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 124,
+      "title": "Sarajevo moje moj jedini je svijet",
+      "artist": "Muhamed Fazlagić Fazla",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/124.jpg",
+      "about": "Nova izvedba: https://www.youtube.com/watch?v=6ninSI1gzI8 ",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=mA5DYiWLHjA",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 125,
+      "title": "Park kafana",
+      "artist": "Narcis Vučina",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/125.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=mx7nJPNhnBU",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 126,
+      "title": "Šeher Sarajevo, slatki dome moj",
+      "artist": "Nervozni Poštar",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/126.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=mATzTmZjng8",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 127,
+      "title": "Duet",
+      "artist": "Đorđe Balašević",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/127.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=ICTdtfzoXts",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 128,
+      "title": "Ja volim Sarajevo",
+      "artist": "Palčići",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/128.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=wYUn3-n4ayo",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 129,
+      "title": "Ja volim Sarajevo",
+      "artist": "Palčići",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/129.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=hcBlqUGJWME",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 130,
+      "title": "Miss Sarajevo",
+      "artist": "U2 & Luciano Pavarotti",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/130.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=gdczQ2LsY0I",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 131,
+      "title": "Bijeli ruzmarin",
+      "artist": "Peđa Jovanović",
+      "year": 2026,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/131.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=_CEJaX5rGTk",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 132,
+      "title": "Sarajlija",
+      "artist": "Plavi Orkestar",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/132.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=zz1t1xs8MDc",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 133,
+      "title": "Sedam",
+      "artist": "Plavi Orkestar",
+      "year": 2012,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/133.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=DqUAWRrOmlI",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 134,
+      "title": "Sarajevo uspomeno lijepa",
+      "artist": "Raspjevane Meraklije",
+      "year": 2013,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/134.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=3GJoalFxURM",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 135,
+      "title": "Rođen u Sarajevu",
+      "artist": "Ratni Nadrealisti",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/135.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=FFoU8N7AU78",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 136,
+      "title": "Grade moj Sarajevo",
+      "artist": "Regina",
+      "year": 1992,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/136.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=n-anczs8uYA",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 137,
+      "title": "Pogledaj u nebo",
+      "artist": "Regina",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/137.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=id2JeMPPedk",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 138,
+      "title": "Children",
+      "artist": "Robert Miles",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/138.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=DvyCbevQbtI",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 139,
+      "title": "O Cerco de Sarajevo, Pt. 1: Le Siège",
+      "artist": "RTP3",
+      "year": 1992,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "",
+      "youtube": "",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 140,
+      "title": "O Cerco de Sarajevo, Pt. 2: Le Siège",
+      "artist": "RTP3",
+      "year": 1992,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "",
+      "youtube": "",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 141,
+      "title": "Mala Sarajka",
+      "artist": "Sabahudin Kurt",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/141.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=D4LhKuHNJc0",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 142,
+      "title": "Pjesma Sarajevu",
+      "artist": "Sabahudin Kurt",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/142.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=3cJM8KeLWuo",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 143,
+      "title": "Sarajevo grade",
+      "artist": "Sabahudin Kurt",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/143.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=PYGglZoxu20",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 144,
+      "title": "Sarajevske noći",
+      "artist": "Sabahudin Kurt",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/144.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=096F6zqXv4s",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 145,
+      "title": "Sarajevo",
+      "artist": "Sabaton",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "",
+      "youtube": "",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "For decades the Austro-Hungarian empire had been a \npowerful influence in the heart of Europe\nResting on a legacy, their house kept stability, order and peace \nBut not everyone bowed to this power\n\n\nIn the summer of 1914 the archduke Franz Ferdinand of the empire\nis visiting Sarajevo, unaware of the assassins awaiting him, and what will come\n\n\nTwo shots are fired and the archduke is dead \n\n\nThe empire cannot let this go unpunished,\nand the first declaration of war is made.\n\n\nFrom a shot that would change the world\nTensions rise and a war is unfurled\nNothing like what had come before\nIt’s the war that will end all war!\n\n\nChaos and shockwaves spread from the Balkans across the globe\nAlliances are put to the test, threats exchanged and armies are put on high alert\nIn the east the Russian Tsar is trying to calm the situation with his cousin\nthe Kaiser of Germany\n\n\nBut it is all in vain, the situation is out of control\nWar is unavoidable\n\n\nThe Battle of the Frontiers starts in August\nas soldiers cross borders and bullets are fired in rage \n\n\nWar begins"
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=Xszx_9UPwV8",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 146,
+      "title": "Pjesma Sarajevu",
+      "artist": "Safet Isović",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/146.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=lJwRnJDu1H0",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 147,
+      "title": "Zima u Sarajevu",
+      "artist": "Sandi Cenov",
+      "year": 2000,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/147.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=JsJDzXREvIk",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 148,
+      "title": "Daleko od mog Šehera",
+      "artist": "Sarr-e-Roma",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/148.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=YVD9wcqrv1U",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 149,
+      "title": "Christmas Eve / Sarajevo 12/24",
+      "artist": "Savatage",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/149.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=mYLGsC3TN5Q",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 150,
+      "title": "Pjesma o Sarajevu",
+      "artist": "Seid Memić Vajta",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/150.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=LzBAJe_pp6I",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 151,
+      "title": "Sarajevo",
+      "artist": "Selma Bajrami",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/151.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=PLBcYzl1_WA",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 152,
+      "title": "Sarajevo",
+      "artist": "Selma Bajrami",
+      "year": 2010,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/152.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=PLBcYzl1_WA",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 153,
+      "title": "Moje Sarajevo",
+      "artist": "Selma Muhedinović",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/153.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=yqlnEAtkjPg",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 154,
+      "title": "Moje Sarajevo",
+      "artist": "Selma Muhedinović",
+      "year": 2005,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/154.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=TgBW4ynr65o",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 155,
+      "title": "Follow You",
+      "artist": "Selma & The Sound",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/155.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=jTkHw2aofVs",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 156,
+      "title": "Sarajevo",
+      "artist": "Semir Cerić Koke",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/156.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=xy5maaWBFBc",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 157,
+      "title": "Puce puška / Kad procvatu behari",
+      "artist": "Shaderwan Code",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/157.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=tTmUfQT6kB8",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 158,
+      "title": "Volio sam jednu malu",
+      "artist": "Stakleno Zvono",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/158.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=xbfBM16YYoA",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 159,
+      "title": "Sweet 16",
+      "artist": "Sweet 16",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/159.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=yB9uv9Z2-kU",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 160,
+      "title": "Sarajevo",
+      "artist": "The Baladre Experience",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/160.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=mo7Vjtg-4Nk",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 161,
+      "title": "Bosnia",
+      "artist": "The Cranberries",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/161.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=asywK5J7LiU",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 162,
+      "title": "Sarajevo",
+      "artist": "The Frajle",
+      "year": 2015,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/162.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=VGlGBKTglu8",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 163,
+      "title": "Sarajevo",
+      "artist": "The Hoosiers",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/163.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=5QsU4T3ecZY",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 164,
+      "title": "The One Over There Is Mine",
+      "artist": "The One Over There Is Mine",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/164.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=AHwiK7ovUFA",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 165,
+      "title": "Grbavica",
+      "artist": "Tifa",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/165.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=70jbol0682c",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 166,
+      "title": "Stari Grad: Sarajevo",
+      "artist": "TNT Band",
+      "year": 1994,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/166.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=xZT1FXa8ddI",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 167,
+      "title": "Christmas Eve / Sarajevo 12/24",
+      "artist": "Trans-Siberian Orchestra",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/167.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=MHioIlbnS_A",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 168,
+      "title": "Moj grad Sarajevo",
+      "artist": "Treća Smjena Crew feat. Chuky",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/168.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=Mcd9pahPz5Q",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 169,
+      "title": "Sarajevo - Beograd",
+      "artist": "Tropico Band feat. Mirza Šoljanin",
+      "year": 2015,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/169.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=9mJXRfHgyJE",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 170,
+      "title": "Sarajevo zaboravit neće nikada",
+      "artist": "Tuce Thompson",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/170.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=kDCGzYIoeqQ",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 171,
+      "title": "Sarajevo",
+      "artist": "Vangelis",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/171.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=X8sQta8HpQw",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 172,
+      "title": "Četiri mladića idu s Trebevića",
+      "artist": "Vedo Hamšić",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/172.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=tH8iosgW94g",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 173,
+      "title": "Vlado i Dado",
+      "artist": "Vlado Kreslin i Damir Imamović",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/173.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=15_mt30ER-s",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 174,
+      "title": "Sarajevo",
+      "artist": "Vlatko Stefanovski",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/174.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=65SpADm5hkk",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 175,
+      "title": "Vozdra Čoek",
+      "artist": "Vozdra Čoek",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/175.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=GIqHz790OGE",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 176,
+      "title": "Sarajevo",
+      "artist": "Vukosav Govedarica Kota",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/176.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=keTYN721GAg",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 177,
+      "title": "Sarajevo",
+      "artist": "Watsky feat. Dia Frampton",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/177.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=x4Ui9yr6GQ0",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 178,
+      "title": "Sarajevo",
+      "artist": "Watsky feat. Raquel Rodriguez",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/178.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=ICwkp8r85I4",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 179,
+      "title": "Welcome",
+      "artist": "Welcome",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/179.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=R8DYCgBAcaA",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 180,
+      "title": "Abid",
+      "artist": "Zabranjeno Pušenje",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/180.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=GXuGaS3NLqA",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 181,
+      "title": "Anarhija all over Baščaršija",
+      "artist": "Zabranjeno Pušenje",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/181.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=H0xpRqeuGcE",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 182,
+      "title": "Boško i Admira",
+      "artist": "Zabranjeno Pušenje",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/182.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=OMMfW3IqiFE",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 183,
+      "title": "Dobro dvorište",
+      "artist": "Zabranjeno Pušenje",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/183.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=oVdmCiqy8TA",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 184,
+      "title": "Džana",
+      "artist": "Zabranjeno Pušenje",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/184.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=tptbkTrHWr4",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 185,
+      "title": "Fildžan viška",
+      "artist": "Zabranjeno Pušenje",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/185.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=EZkK_p18Pmo",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 186,
+      "title": "Mejtaš",
+      "artist": "Zabranjeno Pušenje",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/186.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=JJJ93QN95hw",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 187,
+      "title": "Pismo Elvisu",
+      "artist": "Zabranjeno Pušenje",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/187.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=3aGG_eaw65s",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 188,
+      "title": "Uvod: Tema iz filma Walter brani Sarajevo",
+      "artist": "Zabranjeno Pušenje",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/188.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=k8OxQyi8P6o",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 189,
+      "title": "Evo ovu rumen ružu",
+      "artist": "Zaim Imamović",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/189.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=HBueO3lzq28",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 190,
+      "title": "Sarajevo, behara ti tvoga",
+      "artist": "Zaim Imamović",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/190.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=A8Iw_3oBzYc",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 191,
+      "title": "Bembaša",
+      "artist": "Zdravko Čolić",
+      "year": 2006,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/191.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=M52ligfsYiE",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 192,
+      "title": "Čaje šukarije",
+      "artist": "Zdravko Čolić",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "",
+      "youtube": "",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=DQJWHsBLTAQ",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 193,
+      "title": "Pjesma Sarajevu",
+      "artist": "Zehra Deović",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/193.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=Ejg6nup4DDU",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 194,
+      "title": "Sarajevo, behara ti tvoga",
+      "artist": "Zehra Deović",
+      "year": 1965,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/194.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=yyjZfWUZleQ",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 195,
+      "title": "Sarajevo meni putuje",
+      "artist": "Željko Samardžić",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/195.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=smzK2yic3mE",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 196,
+      "title": "Jedna ljubav manje više",
+      "artist": "Željko Vasić",
+      "year": 2021,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/196.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=Uzk8UcgX6XA",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 197,
+      "title": "Sarajevski lijepi dani",
+      "artist": "Žera i Narcis",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/197.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=gW0euhktqjk",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 198,
+      "title": "Baščaršijska",
+      "artist": "Zlatan Fazlić Fazla",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/198.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=EWeUkeg_SGE",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 199,
+      "title": "Baščaršijska",
+      "artist": "Zlatan Fazlić Fazla",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/199.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=pBTIkqBMm6c",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 200,
+      "title": "Gavrilo",
+      "artist": "Zoster",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/200.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "ba": "..."
+        },
+        {
+          "en": "..."
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=qWwxA8HzjVc",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 210,
+      "title": "Sarajevo, behara ti tvoga",
+      "artist": "Zumra Mulalić & Serbo",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/201.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "ba": "Sarajevo, behara ti tvoga,\nznaš li išta za dragoga moga?\n\nOtiš'o je, već godina dana.\nJa ga čekam tužna, uplakana.\n\nDođi, dragi, milovanje moje,\npa utješi bolno srce moje.\n\nUzalud je i otac i mati\nkad me, dragi, tvoj pogled ne prati."
+        },
+        {
+          "en": ""
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=bCzyAxlWoZs",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 201,
+      "title": "Sarajevo, My Heart's Home",
+      "artist": "Zumra Mulalić & Serbo",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/201.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "en": "Beneath your hills, where rivers flow,\n Oh Sarajevo, my heart will always go.\n Streets of stone, stories untold,\n A city's warmth, more precious than gold.\n \n\n The call to prayer, the church bell’s chime,\n Your voice is timeless, it echoes through time.\n Through shadows of sorrow, through mornings bright,\n Sarajevo, you are my guiding light.\n \n\n Sarajevo, my heart, my song,\n In your embrace, I’ve found where I belong.\n From Baščaršija’s charm to Trebević high,\n You hold my soul, beneath your sky.\n \n\n Through seasons of struggle, through winters cold,\n Your spirit stood firm, unbroken, bold.\n Each mountain whispers your name so sweet,\n Every sunrise dances on your streets.\n \n\n I walk your bridges, your love I feel,\n Every stone, every wound, begins to heal.\n Your people’s strength, their laughter, their tears,\n Sarajevo, you’ve carried my years.\n \n\n Sarajevo, my heart, my song,\n In your embrace, I’ve found where I belong.\n From Baščaršija’s charm to Trebević high,\n You hold my soul, beneath your sky.\n \n\n In the soft glow of sunset’s hue,\n Your beauty shines, forever true.\n Through war and peace, your spirit lives,\n Sarajevo, the love you give.\n \n\n So here I stand, in your warm embrace,\n My love for you, time can’t erase.\n Sarajevo, my heart’s true flame,\n Forever and always, I’ll sing your name."
+        },
+        {
+          "ba": ""
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=bCzyAxlWoZs",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 202,
+      "title": "Sarajevo divno mjesto",
+      "artist": "Polovina Himzo",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/201.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "en": ""
+        },
+        {
+          "ba": ""
+        }
+      ],
+      "links": {
+        "youtube": "",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 211,
+      "title": "Sarajevo na visoku gledu",
+      "artist": "Zora Dubljević",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/201.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "en": ""
+        },
+        {
+          "ba": ""
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=CeHS0y95O68",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 202,
+      "title": "Sarajevo na visoku gledu",
+      "artist": "Zora Dubljević",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/201.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "en": ""
+        },
+        {
+          "ba": ""
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=CeHS0y95O68",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 203,
+      "title": "Platno bijeli Sarajeka djevojka",
+      "artist": "Safet Isovic",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/201.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "en": ""
+        },
+        {
+          "ba": ""
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=y8S4P8N8wTU",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 204,
+      "title": "Platno bijeli Sarajeka djevojka",
+      "artist": "Safet Isovic",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/201.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "en": ""
+        },
+        {
+          "ba": ""
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=y8S4P8N8wTU",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 205,
+      "title": "Sjajna zvijezdo",
+      "artist": "Zora Dubljević",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/201.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "en": ""
+        },
+        {
+          "ba": ""
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=e1Bbbnz70XY",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 212,
+      "title": "Sto je lijepo vrelo Moscanice",
+      "artist": "Zaim Imamovic",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/201.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "en": ""
+        },
+        {
+          "ba": ""
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=qWvwBezi3fM",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 206,
+      "title": "Oj Safete Sajo Sarajlijo",
+      "artist": "Nada Mamula I Safet Isovic",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/201.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "en": ""
+        },
+        {
+          "ba": ""
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=uQjtEPAwoU0",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 207,
+      "title": "Sa Igmana pogledat je lijepo",
+      "artist": "Marinko Rokvic",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/201.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "en": ""
+        },
+        {
+          "ba": ""
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=uQjtEPAwoU0",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 208,
+      "title": "Kad ja pođoh na Bembašu",
+      "artist": "Himzo Polovina",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/201.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "en": ""
+        },
+        {
+          "ba": ""
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=uQjtEPAwoU0",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 209,
+      "title": "Na adresi ti piše...",
+      "artist": "Zdravko Čolić",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/201.jpg",
+      "about": "",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "en": ""
+        },
+        {
+          "ba": ""
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=QF_uj3VVclk",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    }
+  ]
+}

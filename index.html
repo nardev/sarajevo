@@ -1,0 +1,31 @@
+---
+layout: default
+title: Home
+permalink: /
+---
+
+{%- include toolbar.html -%}
+
+<section class="results">
+  <header class="results-meta">
+    <div class="results-meta_count" data-count>{{ site.data.songs.entries | size }} pjesama pronađeno</div>
+    <div class="results-meta_sort">
+      <label for="sort">Sortiraj po:</label>
+      <select id="sort" class="select" data-sort>
+        <option value="title">Naziv</option>
+        <option value="artist">Izvođač</option>
+        <option value="year">Godina</option>
+      </select>
+    </div>
+  </header>
+
+  {%- assign songs = site.data.songs.entries | sort: "title" -%}
+
+  <div class="song-list-box">
+    <ol class="song-list" data-song-list>
+      {%- for s in songs -%}
+        {%- include song-row.html song=s index=forloop.index open=false -%}
+      {%- endfor -%}
+    </ol>
+  </div>
+</section>

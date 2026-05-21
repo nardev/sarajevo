@@ -1,0 +1,190 @@
+{%- comment -%}
+  One row in the song list.
+  Pass:
+    include.song  — a hash from _data/songs.yml
+    include.index — 1-based position
+    include.open  — truthy to render the expanded panel
+{%- endcomment -%}
+
+{%- assign s = include.song -%}
+{%- assign yt_watch = s.links.youtube | default: "" -%}
+{%- if yt_watch != "" -%}
+  {%- assign yt_id = yt_watch | split: "?v=" | last -%}
+  {%- assign yt_embed = "https://www.youtube.com/embed/" | append: yt_id -%}
+{%- else -%}
+  {%- assign yt_embed = "" -%}
+{%- endif -%}
+{%- assign tag_list = s.tags | join: "," -%}
+{%- capture search_blob -%}
+  {{ s.title }} {{ s.artist }} {{ s.album }} {{ s.genre }} {{ s.country }} {{ s.year }} {{ s.tags | join: " " }}
+{%- endcapture -%}
+
+<li class="song{% if include.open %} is-open{% endif %}"
+    data-tags="{{ tag_list | downcase }}"
+    data-search="{{ search_blob | strip_newlines | downcase }}"
+    data-year="{{ s.year }}"
+    data-title="{{ s.title }}"
+    data-artist="{{ s.artist }}"
+    data-popularity="{{ s.popularity | default: 0 }}">
+
+  <div class="song_row">
+    <div class="song_index">{{ include.index }}</div>
+
+    <div class="song_cover"
+         {%- unless s.cover %} style="background:{{ s.cover_bg | default: '#222' }};color:{{ s.cover_fg | default: '#f0e9da' }}"{%- endunless %}>
+      {%- if s.cover -%}
+        <img src="{{ s.cover | relative_url }}" alt="{{ s.artist }} – {{ s.title }}" />
+      {%- else -%}
+        <div class="song_cover_placeholder">
+          <svg viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+            <circle cx="20" cy="14" r="6" stroke="currentColor" stroke-width="1.5"/>
+            <path d="M20 2 C17 2 16.5 5 17 7.5 L20 10 L23 7.5 C23.5 5 23 2 20 2Z" fill="currentColor" opacity="0.5"/>
+            <path d="M8 36 C8 28 32 28 32 36" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+          </svg>
+        </div>
+      {%- endif -%}
+    </div>
+
+    <div class="song_info">
+      <h2 class="song_title">{{ s.title }}</h2>
+      <p class="song_artist">{{ s.artist }}</p>
+      <div class="song_meta">
+        {%- if s.year %}<span>{{ s.year }}</span><span class="dot"></span>{% endif -%}
+        {%- if s.genre and s.genre != "" %}<span>{{ s.genre }}</span><span class="dot"></span>{% endif -%}
+        {%- if s.country and s.country != "" %}<span>{{ s.country }}</span>{% endif -%}
+      </div>
+    </div>
+
+    <div class="song_tags">
+      {%- for t in s.tags limit: 2 -%}
+        <span class="pill pill--sm">{{ t | capitalize }}</span>
+      {%- endfor -%}
+    </div>
+
+    <span class="song_toggle" aria-hidden="true">
+      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="m6 9 6 6 6-6"/></svg>
+    </span>
+  </div>
+
+  <div class="song_panel">
+    <div class="panel-grid">
+
+      {%- comment -%} ---- col 1: video + tags + links ---- {%- endcomment -%}
+      <div>
+        <div class="video">
+          {%- if yt_embed != "" -%}
+            <div class="video_embed"
+                 data-yt-src="{{ yt_embed }}"
+                 data-yt-title="{{ s.artist | xml_escape }} – {{ s.title | xml_escape }}"></div>
+          {%- else -%}
+            <div class="video_placeholder">[ nema videa ]</div>
+          {%- endif -%}
+        </div>
+
+        <div class="panel-section">
+          <h3>Tagovi</h3>
+          <div style="display:flex;gap:8px;flex-wrap:wrap">
+            {%- for t in s.tags -%}
+              <span class="pill pill--sm">{{ t | capitalize }}</span>
+            {%- endfor -%}
+          </div>
+        </div>
+
+        {%- if s.links -%}
+        <div class="panel-section">
+          <h3>Linkovi</h3>
+          <ul class="link-list">
+            {%- if s.links.youtube   %}<li><a href="{{ s.links.youtube }}"   target="_blank" rel="noopener"><span class="ico ico--yt">&#9654;</span>YouTube</a></li>{% endif -%}
+            {%- if s.links.discogs   %}<li><a href="{{ s.links.discogs }}"   target="_blank" rel="noopener"><span class="ico ico--disc">&#9679;</span>Discogs</a></li>{% endif -%}
+            {%- if s.links.wikipedia %}<li><a href="{{ s.links.wikipedia }}" target="_blank" rel="noopener"><span class="ico ico--wiki">W</span>Wikipedia</a></li>{% endif -%}
+            {%- if s.links.genius    %}<li><a href="{{ s.links.genius }}"    target="_blank" rel="noopener"><span class="ico ico--gen">G</span>Genius</a></li>{% endif -%}
+          </ul>
+        </div>
+        {%- endif -%}
+      </div>
+
+      {%- comment -%} ---- col 2: meta table + lyrics ---- {%- endcomment -%}
+      <div>
+        <div class="meta-table">
+          <dl>
+            <dt>Izvođač:</dt>  <dd>{{ s.artist }}</dd>
+            <dt>Pjesma:</dt>   <dd>{{ s.title }}</dd>
+            {%- if s.album    %}<dt>Album:</dt>    <dd>{{ s.album }}</dd>{% endif -%}
+            {%- if s.year     %}<dt>Godina:</dt>   <dd>{{ s.year }}</dd>{% endif -%}
+            {%- if s.genre    %}<dt>Žanr:</dt>     <dd>{{ s.genre }}</dd>{% endif -%}
+            {%- if s.country  %}<dt>Zemlja:</dt>   <dd>{{ s.country }}</dd>{% endif -%}
+            {%- if s.language %}<dt>Jezik:</dt>    <dd>{{ s.language }}</dd>{% endif -%}
+          </dl>
+        </div>
+
+        {%- comment -%} ---------- lyrics ---------- {%- endcomment -%}
+        {%- assign _lyr_orig = "" -%}
+        {%- if s.lyrics -%}
+          {%- for _lh in s.lyrics -%}
+            {%- if _lh.original and _lh.original != "" and _lh.original != "..." -%}
+              {%- assign _lyr_orig = _lh.original -%}
+            {%- endif -%}
+          {%- endfor -%}
+        {%- endif -%}
+        {%- if _lyr_orig != "" -%}
+          <div class="panel-section lyrics-section">
+
+            {%- comment -%} Check for translation variants {%- endcomment -%}
+            {%- assign _has_trans = false -%}
+            {%- for _lh in s.lyrics -%}
+              {%- for _p in _lh -%}
+                {%- if _p[0] != "original" and _p[1] != "" and _p[1] != "..." -%}
+                  {%- assign _has_trans = true -%}
+                {%- endif -%}
+              {%- endfor -%}
+            {%- endfor -%}
+
+            <div class="lyrics-header">
+              <h3>Tekst pjesme</h3>
+              {%- if _has_trans -%}
+              <div class="lyrics-langs">
+                <button class="lyrics-lang-btn is-active" data-lbtn="original">Original</button>
+                {%- for _lh in s.lyrics -%}
+                  {%- for _p in _lh -%}
+                    {%- assign _lk = _p[0] -%}
+                    {%- assign _lv = _p[1] -%}
+                    {%- if _lk != "original" and _lv != "" and _lv != "..." -%}
+                      <button class="lyrics-lang-btn" data-lbtn="{{ _lk }}">{%- case _lk -%}{%- when "en" -%}🇬🇧{%- when "ba","bs" -%}🇧🇦{%- when "hr" -%}🇭🇷{%- when "sr" -%}🇷🇸{%- when "de" -%}🇩🇪{%- when "fr" -%}🇫🇷{%- when "es" -%}🇪🇸{%- when "tr" -%}🇹🇷{%- when "it" -%}🇮🇹{%- when "pt" -%}🇵🇹{%- when "ru" -%}🇷🇺{%- when "nl" -%}🇳🇱{%- when "pl" -%}🇵🇱{%- when "sv" -%}🇸🇪{%- when "no" -%}🇳🇴{%- else -%}{{ _lk | upcase }}{%- endcase -%}</button>
+                    {%- endif -%}
+                  {%- endfor -%}
+                {%- endfor -%}
+              </div>
+              {%- endif -%}
+            </div>
+
+            {%- comment -%} Original variant (visible by default) {%- endcomment -%}
+            {%- assign _orig_lines = _lyr_orig | split: "\n" -%}
+            <div class="lyrics-variant" data-lvar="original">
+              <div class="lyrics lyrics-excerpt">{%- for _l in _orig_lines limit: 4 -%}{%- unless forloop.first -%}<br>{%- endunless -%}{{ _l | xml_escape }}{%- endfor -%}</div>
+              <div class="lyrics lyrics-full" hidden>{{ _lyr_orig | xml_escape | newline_to_br }}</div>
+              <button class="lyrics-toggle" data-expanded="false"><span class="lyrics-toggle-text">Prikaži cijeli tekst</span><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m6 9 6 6 6-6"/></svg></button>
+            </div>
+
+            {%- comment -%} Translation variants (hidden by default) {%- endcomment -%}
+            {%- for _lh in s.lyrics -%}
+              {%- for _p in _lh -%}
+                {%- assign _lk = _p[0] -%}
+                {%- assign _lv = _p[1] -%}
+                {%- if _lk != "original" and _lv != "" and _lv != "..." -%}
+                  {%- assign _lv_lines = _lv | split: "\n" -%}
+                  <div class="lyrics-variant" data-lvar="{{ _lk }}" hidden>
+                    <div class="lyrics lyrics-excerpt">{%- for _l in _lv_lines limit: 4 -%}{%- unless forloop.first -%}<br>{%- endunless -%}{{ _l | xml_escape }}{%- endfor -%}</div>
+                    <div class="lyrics lyrics-full" hidden>{{ _lv | xml_escape | newline_to_br }}</div>
+                    <button class="lyrics-toggle" data-expanded="false"><span class="lyrics-toggle-text">Prikaži cijeli tekst</span><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m6 9 6 6 6-6"/></svg></button>
+                  </div>
+                {%- endif -%}
+              {%- endfor -%}
+            {%- endfor -%}
+
+          </div>
+        {%- endif -%}
+      </div>
+
+    </div>
+  </div>
+</li>

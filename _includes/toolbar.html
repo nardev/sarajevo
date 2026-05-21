@@ -1,0 +1,15 @@
+<section class="toolbar" aria-label="Filters">
+  <label class="search">
+    <span class="search_icon" aria-hidden="true">
+      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+    </span>
+    <input data-search type="search" placeholder="Pretraži pjesme, izvođače, tekstove..." />
+  </label>
+
+  <div class="tags" role="tablist">
+    <span class="tags_label">Popularni tagovi:</span>
+    {%- for tag in site.data.songs.meta.tags -%}
+      <button class="pill{% if forloop.first %} is-active{% endif %}" data-tag="{{ tag.slug }}">{{ tag.label }}</button>
+    {%- endfor -%}
+  </div>
+</section>
