@@ -7291,6 +7291,41 @@
         "apple_music": "",
         "genius": ""
       }
+    },
+    {
+      "id": 214,
+      "title": "Saray De Oro",
+      "artist": "Flory Jagoda",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/201.jpg",
+      "about": "",
+      "notes": "Full Album released, Memmories of Sarajevo https://www.discogs.com//release/23470643-Flory-Jagoda-Memories-Of-Sarajevo-Judeo-Spanish-Songs-From-Bosnia",
+      "lyrics": [
+        {
+          "original": ""
+        },
+        {
+          "en": ""
+        },
+        {
+          "ba": ""
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=u7eWMkpoa9M",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
     }
   ]
 }
