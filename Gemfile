@@ -5,6 +5,8 @@ source "https://rubygems.org"
 # 1. Local / self-hosted — recommended:
 gem "jekyll", "~> 4.3"
 
+gem "sass-embedded", "1.99.0"
+
 # 2. GitHub Pages — comment out the line above and uncomment this:
 # gem "github-pages", group: :jekyll_plugins
 
