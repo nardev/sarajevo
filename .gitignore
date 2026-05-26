@@ -10,7 +10,6 @@ vendor/
 .jekyll-cache/
 .jekyll-metadata
 *.gem
-Gemfile.lock
 
 # OS
 .DS_Store
