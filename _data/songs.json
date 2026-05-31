@@ -7326,6 +7326,76 @@
         "apple_music": "",
         "genius": ""
       }
+    },
+    {
+      "id": 215,
+      "title": "Sarajevo će biti, sve drugo će proći",
+      "artist": "Davorin Popović, Mladen Vojičić Tifa, Zlatan Fazlić Fazla, Ismeta Dervoz",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "",
+      "about": "",
+      "notes": "Stihovi (strofe): Đorđe Balašević\nStihovi (refren): Zlatan Fazlić Fazla\nMuzika: Zlatko Arslanagić (bivši gitarist Crvene jabuke)\nAranžman: Ranko Rihtman",
+      "lyrics": [
+        {
+         "original": "Što više mislim, sve manje shvatam,\npećina tuge u meni zjeva\nsve teže rimama ja baratam,\npune su mi oči Sarajeva\n\nŠto više mislim, sve više slutim\nnađite nekog drugog da pjeva,\novu ću pjesmu da odćutim,\nnema mi pjesme bez Sarajeva\n\nRef.\nI kada šuti Sarajevo pjeva,\ni kad žmiri svjetlucaju mu oči\nsuzama kiša u oluk se slijeva\nSarajevo će biti, sve drugo će proći"
+        },
+        {
+          "en": ""
+        },
+        {
+          "ba": ""
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=4u5niy9tugQ",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 216,
+      "title": "Branioci Sarajeva ",
+      "artist": "Nazif Gljiva",
+      "year": null,
+      "genre": "",
+      "country": "",
+      "tags": [],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "",
+      "about": "",
+      "notes": "",
+      "lyrics": [
+        {
+         "original": "Gdje ste sada prijatelji\nDok Bosna umire,\n\nDok Bosna umire\nVaš glas se ne čuje!\n\nDok Bosna umire\nVaš glas se ne čuje!\n\n\nŠta se ono tamo čuje\nKo to tamo pjesmu pjeva\nTo heroji idu majko\nBranioci Sarajeva!\n\nŠta se ono tamo čuje\nKo to tamo pjesmu pjeva\nTo heroji idu majko\nBranioci Sarajeva!\n\n\nLjeto ide Bosna živi\nLjiljani cvjetaju,\n\nLjiljani cvjetaju\nHeroji pjevaju!\n\nLjiljani cvjetaju\nHeroji pjevaju!\n\n\nŠta se ono tamo čuje\nKo to tamo pjesmu pjeva\nTo heroji idu majko\nBranioci Sarajeva!\n\nŠta se ono tamo čuje\nKo to tamo pjesmu pjeva\nTo heroji idu majko\nBranioci Sarajeva!\n\nNeprijatelj svako mi je\nKo Bosnu ne voli,\n\nKo Bosnu ne voli\nZa nju se ne bori!\n\nKo Bosnu ne voli\nZa nju se ne bori!\n\n\nŠta se ono tamo čuje\nKo to tamo pjesmu pjeva\nTo heroji idu majko\nBranioci Sarajeva!\n\nŠta se ono tamo čuje\nKo to tamo pjesmu pjeva\nTo heroji idu majko\nBranioci Sarajeva!"
+        },
+        {
+          "en": ""
+        },
+        {
+          "ba": ""
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=ysI44dbMpXo",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
     }
   ]
 }

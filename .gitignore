@@ -32,3 +32,7 @@ sarajevo.json
 # Media folder contents (keep folder, exclude files)
 media/*
 !media/.gitkeep
+/_data/pjesme_koje_nisam_nasla.txt
+/_data/pjesme_koje_se_ponavljaju.txt
+/_data/pjesme_sa_generalnom_napomenom.txt
+/_data/songs_final_Safija.json
