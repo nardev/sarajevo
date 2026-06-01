@@ -24,7 +24,7 @@ from io import BytesIO
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
 SONGS_FILE   = PROJECT_ROOT / "_data" / "songs.json"
-COVERS_DIR   = PROJECT_ROOT / "_site" / "assets" / "img" / "covers"
+COVERS_DIR   = PROJECT_ROOT / "assets" / "img" / "covers"
 THUMB_SIZE  = 256
 QUALITY     = 88
 
@@ -67,28 +67,39 @@ def crop_square(img: Image.Image) -> Image.Image:
     return img.crop((left, top, left + side, top + side))
 
 
-def process_entry(entry: dict, force: bool) -> str:
+def process_entry(entry: dict, force: bool) -> tuple[str, bool]:
+    """Returns (message, cover_updated) where cover_updated=True if file was saved."""
     entry_id = entry.get("id")
     yt_url   = entry.get("links", {}).get("youtube", "") or ""
     title    = entry.get("title", "")
     artist   = entry.get("artist", "")
 
     out_path = COVERS_DIR / f"{entry_id}.jpg"
+    cover_path = f"/assets/img/covers/{entry_id}.jpg"
 
+    # If file already exists, verify cover field is set correctly
     if out_path.exists() and not force:
-        return f"  [{entry_id:>3}] skip  — {out_path.name} already exists"
+        if entry.get("cover") != cover_path:
+            entry["cover"] = cover_path
+            return f"  [{entry_id:>3}] cover — updated cover field (file already existed)", True
+        return f"  [{entry_id:>3}] skip  — {out_path.name} already exists", False
 
     video_id = extract_video_id(yt_url)
     if not video_id:
-        return f"  [{entry_id:>3}] skip  — no YouTube link  ({artist} – {title})"
+        return f"  [{entry_id:>3}] skip  — no YouTube link  ({artist} – {title})", False
 
     img = fetch_thumbnail(video_id)
     if img is None:
-        return f"  [{entry_id:>3}] FAIL  — thumbnail unavailable ({artist} – {title})"
+        return f"  [{entry_id:>3}] FAIL  — thumbnail unavailable ({artist} – {title})", False
 
     img = crop_square(img).resize((THUMB_SIZE, THUMB_SIZE), Image.LANCZOS)
     img.save(out_path, "JPEG", quality=QUALITY, optimize=True)
-    return f"  [{entry_id:>3}] saved — {out_path.name}  ({artist} – {title})"
+
+    if not out_path.exists():
+        return f"  [{entry_id:>3}] FAIL  — file not found after save ({artist} – {title})", False
+
+    entry["cover"] = cover_path
+    return f"  [{entry_id:>3}] saved — {out_path.name}  ({artist} – {title})", True
 
 
 def main():
@@ -110,18 +121,27 @@ def main():
     total = len(entries)
     print(f"Processing {total} entr{'y' if total == 1 else 'ies'}...\n")
 
-    saved = skipped = failed = 0
+    saved = skipped = failed = cover_updated = 0
+    dirty = False
     for i, entry in enumerate(entries, 1):
-        result = process_entry(entry, force=args.force)
+        result, updated = process_entry(entry, force=args.force)
         print(f"[{i}/{total}] {result}")
-        if "saved" in result:
-            saved += 1
+        if updated:
+            dirty = True
+            if "saved" in result:
+                saved += 1
+            else:
+                cover_updated += 1
         elif "FAIL" in result:
             failed += 1
         else:
             skipped += 1
 
-    print(f"\nDone. saved={saved}  skipped={skipped}  failed={failed}")
+    if dirty:
+        SONGS_FILE.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
+        print(f"\nUpdated {SONGS_FILE.name}")
+
+    print(f"\nDone. saved={saved}  cover_field_updated={cover_updated}  skipped={skipped}  failed={failed}")
 
 
 if __name__ == "__main__":

@@ -19,22 +19,6 @@
         "label": "Rock"
       },
       {
-        "slug": "war",
-        "label": "War"
-      },
-      {
-        "slug": "yugoslavia",
-        "label": "Yugoslavia"
-      },
-      {
-        "slug": "nostalgia",
-        "label": "Nostalgia"
-      },
-      {
-        "slug": "love",
-        "label": "Love"
-      },
-      {
         "slug": "folk",
         "label": "Folk"
       },
@@ -63,16 +47,8 @@
         "label": "Pop Rock"
       },
       {
-        "slug": "hard-rock",
-        "label": "Hard Rock"
-      },
-      {
         "slug": "pop-folk",
         "label": "Pop Folk"
-      },
-      {
-        "slug": "traditional",
-        "label": "Traditional"
       },
       {
         "slug": "world",
@@ -1945,7 +1921,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/51.jpg",
+      "cover": "/assets/img/covers/50.jpg",
       "about": "",
       "lyrics": [
         {
@@ -1982,7 +1958,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/52.jpg",
+      "cover": "/assets/img/covers/51.jpg",
       "about": "",
       "lyrics": [
         {
@@ -2019,7 +1995,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/53.jpg",
+      "cover": "/assets/img/covers/52.jpg",
       "about": "",
       "lyrics": [
         {
@@ -2056,7 +2032,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/54.jpg",
+      "cover": "/assets/img/covers/53.jpg",
       "about": "",
       "lyrics": [
         {
@@ -2092,7 +2068,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/55.jpg",
+      "cover": "/assets/img/covers/54.jpg",
       "about": "",
       "lyrics": [
         {
@@ -2129,7 +2105,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/56.jpg",
+      "cover": "/assets/img/covers/55.jpg",
       "about": "",
       "lyrics": [
         {
@@ -2166,7 +2142,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/57.jpg",
+      "cover": "/assets/img/covers/56.jpg",
       "about": "",
       "notes": "From movie Twice Born",
       "lyrics": [
@@ -2204,7 +2180,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/58.jpg",
+      "cover": "/assets/img/covers/57.jpg",
       "about": "",
       "lyrics": [
         {
@@ -2241,7 +2217,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/59.jpg",
+      "cover": "/assets/img/covers/58.jpg",
       "about": "",
       "lyrics": [
         {
@@ -2278,7 +2254,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/60.jpg",
+      "cover": "/assets/img/covers/59.jpg",
       "about": "",
       "lyrics": [
         {
@@ -2315,7 +2291,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/61.jpg",
+      "cover": "/assets/img/covers/60.jpg",
       "about": "",
       "lyrics": [
         {
@@ -2390,7 +2366,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/63.jpg",
+      "cover": "/assets/img/covers/62.jpg",
       "about": "",
       "lyrics": [
         {
@@ -2427,7 +2403,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/64.jpg",
+      "cover": "/assets/img/covers/63.jpg",
       "about": "",
       "lyrics": [
         {
@@ -2464,7 +2440,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/65.jpg",
+      "cover": "/assets/img/covers/64.jpg",
       "about": "https://soundcloud.com/semir-vranic/emina-ze-aj-koliko-je-eher Saz: ćamil Metijević",
       "lyrics": [
         {
@@ -2501,7 +2477,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/66.jpg",
+      "cover": "/assets/img/covers/65.jpg",
       "about": "",
       "lyrics": [
         {
@@ -2538,7 +2514,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/67.jpg",
+      "cover": "/assets/img/covers/66.jpg",
       "about": "",
       "lyrics": [
         {
@@ -2575,7 +2551,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/68.jpg",
+      "cover": "/assets/img/covers/67.jpg",
       "about": "",
       "lyrics": [
         {
@@ -2612,7 +2588,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/70.jpg",
+      "cover": "/assets/img/covers/68.jpg",
       "about": "",
       "lyrics": [
         {
@@ -2649,7 +2625,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/71.jpg",
+      "cover": "/assets/img/covers/69.jpg",
       "about": "",
       "lyrics": [
         {
@@ -2686,7 +2662,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/72.jpg",
+      "cover": "/assets/img/covers/70.jpg",
       "about": "",
       "lyrics": [
         {
@@ -2724,7 +2700,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/73.jpg",
+      "cover": "/assets/img/covers/71.jpg",
       "about": "",
       "lyrics": [
         {
@@ -2761,7 +2737,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/74.jpg",
+      "cover": "/assets/img/covers/72.jpg",
       "about": "",
       "lyrics": [
         {
@@ -2798,7 +2774,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/75.jpg",
+      "cover": "/assets/img/covers/73.jpg",
       "about": "",
       "lyrics": [
         {
@@ -2835,7 +2811,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/76.jpg",
+      "cover": "/assets/img/covers/74.jpg",
       "about": "",
       "lyrics": [
         {
@@ -2872,7 +2848,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/77.jpg",
+      "cover": "/assets/img/covers/75.jpg",
       "about": "",
       "lyrics": [
         {
@@ -2909,7 +2885,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/78.jpg",
+      "cover": "/assets/img/covers/76.jpg",
       "about": "",
       "lyrics": [
         {
@@ -2946,7 +2922,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/79.jpg",
+      "cover": "/assets/img/covers/77.jpg",
       "about": "",
       "lyrics": [
         {
@@ -2983,7 +2959,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/80.jpg",
+      "cover": "/assets/img/covers/78.jpg",
       "about": "",
       "lyrics": [
         {
@@ -3020,7 +2996,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/81.jpg",
+      "cover": "/assets/img/covers/79.jpg",
       "about": "",
       "lyrics": [
         {
@@ -3057,7 +3033,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/82.jpg",
+      "cover": "/assets/img/covers/80.jpg",
       "about": "",
       "lyrics": [
         {
@@ -3094,7 +3070,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/83.jpg",
+      "cover": "/assets/img/covers/81.jpg",
       "about": "",
       "lyrics": [
         {
@@ -3131,7 +3107,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/84.jpg",
+      "cover": "/assets/img/covers/82.jpg",
       "about": "Originalno Halid Muslimović",
       "lyrics": [
         {
@@ -3168,7 +3144,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/85.jpg",
+      "cover": "/assets/img/covers/83.jpg",
       "about": "",
       "lyrics": [
         {
@@ -3205,7 +3181,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/86.jpg",
+      "cover": "/assets/img/covers/84.jpg",
       "about": "",
       "lyrics": [
         {
@@ -3242,7 +3218,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/87.jpg",
+      "cover": "/assets/img/covers/85.jpg",
       "about": "",
       "lyrics": [
         {
@@ -3278,7 +3254,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/88.jpg",
+      "cover": "/assets/img/covers/86.jpg",
       "about": "",
       "lyrics": [
         {
@@ -3315,7 +3291,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/89.jpg",
+      "cover": "/assets/img/covers/87.jpg",
       "about": "",
       "lyrics": [
         {
@@ -3352,7 +3328,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/90.jpg",
+      "cover": "/assets/img/covers/88.jpg",
       "about": "",
       "lyrics": [
         {
@@ -3389,7 +3365,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/91.jpg",
+      "cover": "/assets/img/covers/89.jpg",
       "about": "",
       "lyrics": [
         {
@@ -3426,7 +3402,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/92.jpg",
+      "cover": "/assets/img/covers/90.jpg",
       "about": "",
       "lyrics": [
         {
@@ -3463,7 +3439,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/93.jpg",
+      "cover": "/assets/img/covers/91.jpg",
       "about": "",
       "lyrics": [
         {
@@ -3500,7 +3476,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "",
+      "cover": "/assets/img/covers/92.jpg",
       "youtube": "",
       "about": "",
       "lyrics": [
@@ -3538,7 +3514,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/95.jpg",
+      "cover": "/assets/img/covers/93.jpg",
       "about": "",
       "lyrics": [
         {
@@ -3575,7 +3551,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/96.jpg",
+      "cover": "/assets/img/covers/94.jpg",
       "about": "",
       "lyrics": [
         {
@@ -3612,7 +3588,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/97.jpg",
+      "cover": "/assets/img/covers/95.jpg",
       "about": "",
       "lyrics": [
         {
@@ -3649,7 +3625,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/98.jpg",
+      "cover": "/assets/img/covers/96.jpg",
       "about": "",
       "lyrics": [
         {
@@ -3686,7 +3662,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/99.jpg",
+      "cover": "/assets/img/covers/97.jpg",
       "about": "",
       "lyrics": [
         {
@@ -3723,7 +3699,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/100.jpg",
+      "cover": "/assets/img/covers/98.jpg",
       "about": "",
       "lyrics": [
         {
@@ -3760,7 +3736,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/102.jpg",
+      "cover": "/assets/img/covers/99.jpg",
       "about": "",
       "lyrics": [
         {
@@ -3796,7 +3772,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/103.jpg",
+      "cover": "/assets/img/covers/100.jpg",
       "about": "",
       "lyrics": [
         {
@@ -3834,7 +3810,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/104.jpg",
+      "cover": "/assets/img/covers/101.jpg",
       "about": "",
       "lyrics": [
         {
@@ -3871,7 +3847,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/105.jpg",
+      "cover": "/assets/img/covers/102.jpg",
       "about": "",
       "lyrics": [
         {
@@ -3908,7 +3884,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "",
+      "cover": "/assets/img/covers/103.jpg",
       "youtube": "",
       "about": "",
       "lyrics": [
@@ -3946,7 +3922,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/109.jpg",
+      "cover": "/assets/img/covers/104.jpg",
       "about": "",
       "lyrics": [
         {
@@ -3983,7 +3959,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/110.jpg",
+      "cover": "/assets/img/covers/105.jpg",
       "about": "",
       "lyrics": [
         {
@@ -4020,7 +3996,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/111.jpg",
+      "cover": "/assets/img/covers/106.jpg",
       "about": "",
       "lyrics": [
         {
@@ -4057,7 +4033,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/112.jpg",
+      "cover": "/assets/img/covers/107.jpg",
       "about": "",
       "lyrics": [
         {
@@ -4094,7 +4070,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/113.jpg",
+      "cover": "/assets/img/covers/108.jpg",
       "about": "",
       "lyrics": [
         {
@@ -4130,7 +4106,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/114.jpg",
+      "cover": "/assets/img/covers/109.jpg",
       "about": "",
       "lyrics": [
         {
@@ -4166,7 +4142,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/115.jpg",
+      "cover": "/assets/img/covers/110.jpg",
       "about": "Mala Vita - video clip 'Plesi' (cd 'Disorganizzata'). Video made by Bosnian director Pjer Zalica in Sarajevo, summer 2007.",
       "lyrics": [
         {
@@ -4203,7 +4179,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/116.jpg",
+      "cover": "/assets/img/covers/111.jpg",
       "about": "",
       "lyrics": [
         {
@@ -4240,7 +4216,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/117.jpg",
+      "cover": "/assets/img/covers/112.jpg",
       "about": "",
       "lyrics": [
         {
@@ -4277,7 +4253,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/118.jpg",
+      "cover": "/assets/img/covers/113.jpg",
       "about": "",
       "lyrics": [
         {
@@ -4313,7 +4289,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/119.jpg",
+      "cover": "/assets/img/covers/114.jpg",
       "about": "",
       "lyrics": [
         {
@@ -4350,7 +4326,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/121.jpg",
+      "cover": "/assets/img/covers/115.jpg",
       "about": "",
       "lyrics": [
         {
@@ -4387,7 +4363,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/122.jpg",
+      "cover": "/assets/img/covers/116.jpg",
       "about": "",
       "lyrics": [
         {
@@ -4424,7 +4400,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/123.jpg",
+      "cover": "/assets/img/covers/117.jpg",
       "about": "",
       "lyrics": [
         {
@@ -4461,7 +4437,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/124.jpg",
+      "cover": "/assets/img/covers/118.jpg",
       "about": "Nova izvedba: https://www.youtube.com/watch?v=6ninSI1gzI8 ",
       "lyrics": [
         {
@@ -4498,7 +4474,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/125.jpg",
+      "cover": "/assets/img/covers/119.jpg",
       "about": "",
       "lyrics": [
         {
@@ -4535,7 +4511,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/126.jpg",
+      "cover": "/assets/img/covers/120.jpg",
       "about": "",
       "lyrics": [
         {
@@ -4572,7 +4548,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/127.jpg",
+      "cover": "/assets/img/covers/121.jpg",
       "about": "",
       "lyrics": [
         {
@@ -4609,7 +4585,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/129.jpg",
+      "cover": "/assets/img/covers/122.jpg",
       "about": "",
       "lyrics": [
         {
@@ -4646,7 +4622,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/130.jpg",
+      "cover": "/assets/img/covers/123.jpg",
       "about": "",
       "lyrics": [
         {
@@ -4683,7 +4659,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/131.jpg",
+      "cover": "/assets/img/covers/124.jpg",
       "about": "",
       "lyrics": [
         {
@@ -4720,7 +4696,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/132.jpg",
+      "cover": "/assets/img/covers/125.jpg",
       "about": "",
       "lyrics": [
         {
@@ -4757,7 +4733,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/133.jpg",
+      "cover": "/assets/img/covers/126.jpg",
       "about": "",
       "lyrics": [
         {
@@ -4794,7 +4770,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/134.jpg",
+      "cover": "/assets/img/covers/127.jpg",
       "about": "",
       "lyrics": [
         {
@@ -4831,7 +4807,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/135.jpg",
+      "cover": "/assets/img/covers/128.jpg",
       "about": "",
       "lyrics": [
         {
@@ -4868,7 +4844,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/136.jpg",
+      "cover": "/assets/img/covers/129.jpg",
       "about": "",
       "lyrics": [
         {
@@ -4905,7 +4881,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/137.jpg",
+      "cover": "/assets/img/covers/130.jpg",
       "about": "",
       "lyrics": [
         {
@@ -4942,7 +4918,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/138.jpg",
+      "cover": "/assets/img/covers/131.jpg",
       "about": "Inspired by Bosnia/Sarajevo",
       "notes": "Inspired by Bosnia/Sarajevo",
       "lyrics": [
@@ -4979,7 +4955,7 @@
       "popularity": null,
       "album": "Todo Dia uma Guerra",
       "language": "portuguese",
-      "cover": "",
+      "cover": "/assets/img/covers/132.jpg",
       "youtube": "",
       "about": "",
       "lyrics": [
@@ -5017,7 +4993,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/141.jpg",
+      "cover": "/assets/img/covers/133.jpg",
       "about": "",
       "lyrics": [
         {
@@ -5054,7 +5030,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/142.jpg",
+      "cover": "/assets/img/covers/134.jpg",
       "about": "",
       "lyrics": [
         {
@@ -5091,7 +5067,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/143.jpg",
+      "cover": "/assets/img/covers/135.jpg",
       "about": "",
       "lyrics": [
         {
@@ -5128,7 +5104,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/144.jpg",
+      "cover": "/assets/img/covers/136.jpg",
       "about": "",
       "lyrics": [
         {
@@ -5165,7 +5141,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "",
+      "cover": "/assets/img/covers/137.jpg",
       "youtube": "",
       "about": "",
       "lyrics": [
@@ -5203,7 +5179,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/146.jpg",
+      "cover": "/assets/img/covers/138.jpg",
       "about": "",
       "lyrics": [
         {
@@ -5240,7 +5216,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/147.jpg",
+      "cover": "/assets/img/covers/139.jpg",
       "about": "",
       "lyrics": [
         {
@@ -5277,7 +5253,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/148.jpg",
+      "cover": "/assets/img/covers/140.jpg",
       "about": "",
       "lyrics": [
         {
@@ -5314,7 +5290,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/149.jpg",
+      "cover": "/assets/img/covers/141.jpg",
       "about": "",
       "lyrics": [
         {
@@ -5351,7 +5327,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/150.jpg",
+      "cover": "/assets/img/covers/142.jpg",
       "about": "",
       "lyrics": [
         {
@@ -5388,7 +5364,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/151.jpg",
+      "cover": "/assets/img/covers/143.jpg",
       "about": "",
       "lyrics": [
         {
@@ -5425,7 +5401,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/153.jpg",
+      "cover": "/assets/img/covers/144.jpg",
       "about": "",
       "lyrics": [
         {
@@ -5461,7 +5437,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/155.jpg",
+      "cover": "/assets/img/covers/145.jpg",
       "about": "",
       "lyrics": [
         {
@@ -5498,7 +5474,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/156.jpg",
+      "cover": "/assets/img/covers/146.jpg",
       "about": "",
       "lyrics": [
         {
@@ -5535,7 +5511,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/157.jpg",
+      "cover": "/assets/img/covers/147.jpg",
       "about": "",
       "lyrics": [
         {
@@ -5572,7 +5548,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/158.jpg",
+      "cover": "/assets/img/covers/148.jpg",
       "about": "",
       "lyrics": [
         {
@@ -5609,7 +5585,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/160.jpg",
+      "cover": "/assets/img/covers/149.jpg",
       "about": "",
       "lyrics": [
         {
@@ -5646,7 +5622,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/161.jpg",
+      "cover": "/assets/img/covers/150.jpg",
       "about": "",
       "lyrics": [
         {
@@ -5683,7 +5659,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/162.jpg",
+      "cover": "/assets/img/covers/151.jpg",
       "about": "",
       "lyrics": [
         {
@@ -5720,7 +5696,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/163.jpg",
+      "cover": "/assets/img/covers/152.jpg",
       "about": "",
       "lyrics": [
         {
@@ -5757,7 +5733,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/165.jpg",
+      "cover": "/assets/img/covers/153.jpg",
       "about": "",
       "lyrics": [
         {
@@ -5794,7 +5770,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/166.jpg",
+      "cover": "/assets/img/covers/154.jpg",
       "about": "",
       "lyrics": [
         {
@@ -5831,7 +5807,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/167.jpg",
+      "cover": "/assets/img/covers/155.jpg",
       "about": "",
       "lyrics": [
         {
@@ -5868,7 +5844,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/168.jpg",
+      "cover": "/assets/img/covers/156.jpg",
       "about": "",
       "lyrics": [
         {
@@ -5905,7 +5881,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/169.jpg",
+      "cover": "/assets/img/covers/157.jpg",
       "about": "",
       "lyrics": [
         {
@@ -5941,7 +5917,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/170.jpg",
+      "cover": "/assets/img/covers/158.jpg",
       "about": "",
       "lyrics": [
         {
@@ -5978,7 +5954,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/172.jpg",
+      "cover": "/assets/img/covers/159.jpg",
       "about": "",
       "lyrics": [
         {
@@ -6015,7 +5991,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/173.jpg",
+      "cover": "/assets/img/covers/160.jpg",
       "about": "",
       "lyrics": [
         {
@@ -6052,7 +6028,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/174.jpg",
+      "cover": "/assets/img/covers/161.jpg",
       "about": "",
       "lyrics": [
         {
@@ -6089,7 +6065,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/175.jpg",
+      "cover": "/assets/img/covers/162.jpg",
       "about": "",
       "lyrics": [
         {
@@ -6126,7 +6102,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/176.jpg",
+      "cover": "/assets/img/covers/163.jpg",
       "about": "",
       "lyrics": [
         {
@@ -6163,7 +6139,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/177.jpg",
+      "cover": "/assets/img/covers/164.jpg",
       "about": "",
       "lyrics": [
         {
@@ -6200,7 +6176,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/178.jpg",
+      "cover": "/assets/img/covers/165.jpg",
       "about": "",
       "lyrics": [
         {
@@ -6237,7 +6213,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/180.jpg",
+      "cover": "/assets/img/covers/166.jpg",
       "about": "",
       "lyrics": [
         {
@@ -6274,7 +6250,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/181.jpg",
+      "cover": "/assets/img/covers/167.jpg",
       "about": "",
       "lyrics": [
         {
@@ -6311,7 +6287,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/182.jpg",
+      "cover": "/assets/img/covers/168.jpg",
       "about": "",
       "lyrics": [
         {
@@ -6348,7 +6324,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/183.jpg",
+      "cover": "/assets/img/covers/169.jpg",
       "about": "",
       "lyrics": [
         {
@@ -6385,7 +6361,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/184.jpg",
+      "cover": "/assets/img/covers/170.jpg",
       "about": "",
       "lyrics": [
         {
@@ -6422,7 +6398,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/185.jpg",
+      "cover": "/assets/img/covers/171.jpg",
       "about": "",
       "lyrics": [
         {
@@ -6459,7 +6435,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/186.jpg",
+      "cover": "/assets/img/covers/172.jpg",
       "about": "",
       "lyrics": [
         {
@@ -6496,7 +6472,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/187.jpg",
+      "cover": "/assets/img/covers/173.jpg",
       "about": "",
       "lyrics": [
         {
@@ -6533,7 +6509,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/188.jpg",
+      "cover": "/assets/img/covers/174.jpg",
       "about": "",
       "lyrics": [
         {
@@ -6570,7 +6546,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/189.jpg",
+      "cover": "/assets/img/covers/175.jpg",
       "about": "",
       "lyrics": [
         {
@@ -6607,7 +6583,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/190.jpg",
+      "cover": "/assets/img/covers/176.jpg",
       "about": "",
       "lyrics": [
         {
@@ -6644,7 +6620,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/191.jpg",
+      "cover": "/assets/img/covers/177.jpg",
       "about": "",
       "lyrics": [
         {
@@ -6681,7 +6657,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "",
+      "cover": "/assets/img/covers/178.jpg",
       "youtube": "",
       "about": "",
       "lyrics": [
@@ -6719,7 +6695,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/193.jpg",
+      "cover": "/assets/img/covers/179.jpg",
       "about": "",
       "lyrics": [
         {
@@ -6756,7 +6732,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/194.jpg",
+      "cover": "/assets/img/covers/180.jpg",
       "about": "",
       "lyrics": [
         {
@@ -6793,7 +6769,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/195.jpg",
+      "cover": "/assets/img/covers/181.jpg",
       "about": "",
       "lyrics": [
         {
@@ -6830,7 +6806,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/196.jpg",
+      "cover": "/assets/img/covers/182.jpg",
       "about": "",
       "lyrics": [
         {
@@ -6867,7 +6843,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/197.jpg",
+      "cover": "/assets/img/covers/183.jpg",
       "about": "",
       "lyrics": [
         {
@@ -6904,7 +6880,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/198.jpg",
+      "cover": "/assets/img/covers/184.jpg",
       "about": "",
       "lyrics": [
         {
@@ -6941,7 +6917,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/200.jpg",
+      "cover": "/assets/img/covers/185.jpg",
       "about": "",
       "lyrics": [
         {
@@ -6978,7 +6954,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/201.jpg",
+      "cover": "/assets/img/covers/186.jpg",
       "about": "",
       "lyrics": [
         {
@@ -7011,7 +6987,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/201.jpg",
+      "cover": "/assets/img/covers/187.jpg",
       "about": "",
       "lyrics": [
         {
@@ -7048,7 +7024,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/201.jpg",
+      "cover": "/assets/img/covers/188.jpg",
       "about": "",
       "lyrics": [
         {
@@ -7062,7 +7038,7 @@
         }
       ],
       "links": {
-        "youtube": "",
+        "youtube": "https://www.youtube.com/watch?v=-gMUmxUl0xk",
         "discogs": "",
         "wikipedia": "",
         "spotify": "",
@@ -7085,7 +7061,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/201.jpg",
+      "cover": "/assets/img/covers/189.jpg",
       "about": "",
       "lyrics": [
         {
@@ -7122,7 +7098,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/201.jpg",
+      "cover": "/assets/img/covers/190.jpg",
       "about": "",
       "lyrics": [
         {
@@ -7159,7 +7135,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/201.jpg",
+      "cover": "/assets/img/covers/191.jpg",
       "about": "",
       "lyrics": [
         {
@@ -7196,7 +7172,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/201.jpg",
+      "cover": "/assets/img/covers/192.jpg",
       "about": "",
       "lyrics": [
         {
@@ -7233,7 +7209,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/201.jpg",
+      "cover": "/assets/img/covers/193.jpg",
       "about": "",
       "lyrics": [
         {
@@ -7270,7 +7246,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/201.jpg",
+      "cover": "/assets/img/covers/194.jpg",
       "about": "",
       "lyrics": [
         {
@@ -7307,7 +7283,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/201.jpg",
+      "cover": "/assets/img/covers/195.jpg",
       "about": "",
       "lyrics": [
         {
@@ -7344,7 +7320,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/201.jpg",
+      "cover": "/assets/img/covers/196.jpg",
       "about": "",
       "lyrics": [
         {
@@ -7382,7 +7358,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "/assets/img/covers/201.jpg",
+      "cover": "/assets/img/covers/197.jpg",
       "about": "",
       "notes": "Full Album released, Memmories of Sarajevo https://www.discogs.com//release/23470643-Flory-Jagoda-Memories-Of-Sarajevo-Judeo-Spanish-Songs-From-Bosnia",
       "lyrics": [
@@ -7420,7 +7396,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "",
+      "cover": "/assets/img/covers/198.jpg",
       "about": "",
       "notes": "Stihovi (strofe): Đorđe Balašević\nStihovi (refren): Zlatan Fazlić Fazla\nMuzika: Zlatko Arslanagić (bivši gitarist Crvene jabuke)\nAranžman: Ranko Rihtman",
       "lyrics": [
@@ -7458,7 +7434,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "",
+      "cover": "/assets/img/covers/199.jpg",
       "about": "",
       "notes": "",
       "lyrics": [
@@ -7496,7 +7472,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "",
+      "cover": "/assets/img/covers/200.jpg",
       "about": "",
       "notes": "",
       "lyrics": [
@@ -7534,7 +7510,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "",
+      "cover": "/assets/img/covers/201.jpg",
       "about": "",
       "notes": "",
       "lyrics": [
@@ -7572,7 +7548,7 @@
       "popularity": null,
       "album": "",
       "language": "",
-      "cover": "",
+      "cover": "/assets/img/covers/202.jpg",
       "about": "",
       "notes": "",
       "lyrics": [
