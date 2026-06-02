@@ -7567,6 +7567,44 @@
         "apple_music": "",
         "genius": ""
       }
+    },
+    {
+      "id": 203,
+      "title": "Sarajevo mon amour",
+      "artist": "Saï saï",
+      "year": 1995,
+      "genre": "hip-hop",
+      "country": "",
+      "tags": [
+        "strana",
+        "hip-hop"
+      ],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/203.jpg",
+      "about": "",
+      "notes": "",
+      "lyrics": [
+        {
+          "original": "Je chante pour la Bosnie ne me dis pas encore\nJe chante Sarajevo ne me dis pas que j'ai tort\nJe chante pour la Bosnie ne me dis pas encore\nJe chante Sarajevo ne me dis pas que j'ai tort\n\nCar comme en 40 la France collabore\nPour aider les Bosniaques pas le moindre effort\nOn veut faire quelque chose les médias nous endorment\nÇa nous empêchera pas de condamner tous les porcs\nQui laissent derrière eux une route jonchée de corps\nDes femmes des enfants tous le monde les ignore\nLe gouvernement est complice l'Etat est d'accord\nPoliticiens véreux on vous réserve un sort\n\n\nPlein de choses se passent dont les médias ne parlent pas\nPlein de chose se passent que les gens ne savent pas\nPlein de chose se passent que les gens ne savent pas\n\nComme au temps d'Hitler et de Mussolini\nA quelques centaines de kilomètres d'ici\nC'est le fascisme qui sévit\nCamps de concentrations et techniques nazis\nFiers de leurs tanks, leurs bombes et fusils\nPrêts à tuer un peuple et prendre n'importe qu'elle vie\nTout ça au nom de cette putain de connerie de Grande Serbie\n\nPlein de chose se passent que les gens ne parlent pas\nPlein de choses se passent dont les médias ne parlent pas\nPlein de chose se passent que les gens ne savent pas\nPlein de chose se passent que les gens ne parlent pas\n\nL'Europe a signé un pacte avec Satan\nCitoyen du monde je refuse d'être partisan\nDe l'apartheid et du racisme ambiant\nIci et là-bas ils veulent imposer le droit du sang\nIls ont la mémoire courte c'est evident\nIls oublient tellement vite qu'il y a à peine cinquante ans\nLes Juifs et les Tziganes subirent le même traitement\nQue le peuple bosniaque endure à présent."
+        },
+        {
+          "en": ""
+        },
+        {
+          "ba": ""
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=DIHW4Rj3MWU",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
     }
   ]
 }
