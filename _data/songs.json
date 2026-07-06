@@ -23,6 +23,10 @@
         "label": "Folk"
       },
       {
+        "slug": "narodna",
+        "label": "Narodna"
+      },
+      {
         "slug": "hip-hop",
         "label": "Hip-Hop"
       },
@@ -7674,6 +7678,82 @@
       ],
       "links": {
         "youtube": "https://www.youtube.com/watch?v=-mSD59H-ud4",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 206,
+      "title": "Park prinčeva",
+      "artist": "Zvonko Bogdan",
+      "year": 2006,
+      "genre": "pop",
+      "country": "",
+      "tags": [
+        "domaca",
+        "narodna"
+      ],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/206.jpg",
+      "about": "",
+      "notes": "",
+      "lyrics": [
+        {
+          "original": "Svako ima neku tajnu\nšto kroz život sobom nosi\nal' naiđu neki dani\nkad te pritiska\n\nRef.\nAli tajna nije tajna\nako bar malo nije javna\nako za nju niko ne zna\nto je istina\n\nKad poželim da se smirim\nSarajevu da se divim\nja na kavu tada svratim\nu Park prinčeva\n\nPutevi su moji razni\npoput vjetra i oluje\na sudbine mnoge znane\npoput valova"
+        },
+        {
+          "en": ""
+        },
+        {
+          "ba": ""
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=-mSD59H-ud4",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 207,
+      "title": "Osmice",
+      "artist": "Toma Zdravković",
+      "year": 1988,
+      "genre": "folk",
+      "country": "",
+      "tags": [
+        "domaca",
+        "narodna"
+      ],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/207.jpg",
+      "about": "",
+      "notes": "",
+      "lyrics": [
+        {
+          "original": "Kad pođeš moj jarane\nGore prema Trebeviću\nS leve strane, moj jarane\nIma jedno divno mesto\n\nDe navrati poselami\nSalku Kića, starog druga\nPa mu kaži bolan bio\nKakva me je snašla tuga\nPa mu kaži bolan bio\nKakva me je snašla tuga\n\nTa tuga je pregolema\nMoje srce davno svila\nKao magla Romaniju\nKao Drina Bosnu celu\nKao magla Romaniju\nKao Drina Bosnu celu\n\nIspričaj mu moj jarane\nDa mi draga drugog ljubi\nTeško mi je bolan bio\nZbog nje mi se pamet gubi"
+        },
+        {
+          "en": ""
+        },
+        {
+          "ba": ""
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=rjmrSdEF8_A",
         "discogs": "",
         "wikipedia": "",
         "spotify": "",
