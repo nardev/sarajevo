@@ -7761,6 +7761,83 @@
         "apple_music": "",
         "genius": ""
       }
+    },
+    {
+      "id": 208,
+      "title": "Man From Reno",
+      "artist": "Scott Walker",
+      "year": 1993,
+      "genre": "folk",
+      "country": "",
+      "tags": [
+        "strana",
+        "world"
+      ],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "",
+      "about": "",
+      "notes": "Movie song From Scott Walker and Goran Bregovic",
+      "lyrics": [
+        {
+          "original": "If I could lose\nIf you could choose\nFor this next dance\nYou might choose me\nI ain't no pussy with the blues\nJust step out on the floor and see\n\nCan't follow a man from Reno\nFollow a man from Zurich\nFollow a man from Italy\nCan't follow a man with brain grass\nFollow his long long eye gas\nFollow a man from Munich\nRunning out of luck, running out of luck in the midnight\n\nZodiac killers drained their hands\nAnd wipe away the shadows from the walls\nNeighbours all say he's got no friends\nHis friends all say you got him by the balls\n\nLook up, you might even shred the stars\nLook up, might even stop the scars\n\nZodiac killer needs that crack\nHe wants you back, he's waiting in the bars"
+        },
+        {
+          "en": ""
+        },
+        {
+          "ba": ""
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=gwlGqhV0ihQ",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 209,
+      "title": "Sarajevska Noć",
+      "artist": "Teška Industrija",
+      "year": 1993,
+      "genre": "rock",
+      "country": "",
+      "tags": [
+        "domaca",
+        "rock",
+        "war"
+      ],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "",
+      "about": "",
+      "notes": "",
+      "lyrics": [
+        {
+          "original": "Sarajevska noć\nU srcu zemlja i jad\nSastali se dani, sati, i minuti\n\nTko sad s tobom pjeva naše pjesme?\nČije su ruke prljave i zle\nDa pokvare me od sanjanja sad\n\nBože čuješ li (Bože čuješ li) vapaj duša ranjenih\nPrestala su kucat' mnoga srca nevinih\nSarajevo, pjevalo je pjesme, ljubavne, za mir, a mi smo željeli mir, i mi smo željeli mir\n\nSvi, ni djeci, ustajte, i tužne pjesme pjevajte\nJer dolazi nova godina, meni teška, najteža\nSvi, ni djeci, ustajtе, i tužne pjesme pjеvajte\nJer dolazi nova godina, mome gradu najteža\n\nBože čuješ li (Bože čuješ li) vapaj duša ranjenih\nPrestala su kucat' mnoga srca nevinih\nSarajevo, pjevalo je pjesme, ljubavne, za mir, a mi smo željeli mir (mmm), i mi smo željeli mir"
+        },
+        {
+          "en": ""
+        },
+        {
+          "ba": ""
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=2t_UDxVw-Oo",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
     }
   ]
 }
