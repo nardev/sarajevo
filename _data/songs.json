@@ -7605,7 +7605,82 @@
         "apple_music": "",
         "genius": ""
       }
+    },
+    {
+      "id": 204,
+      "title": "Sarajevo me zovu",
+      "artist": "Eldin Huseinbegović",
+      "year": 2020,
+      "genre": "pop",
+      "country": "",
+      "tags": [
+        "domaca",
+        "hop"
+      ],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/204.jpg",
+      "about": "",
+      "notes": "",
+      "lyrics": [
+        {
+          "original": "Dugo, dugo već sam tu,\nbaš tu,\nkiša, vjetar, pa opet sunce.\n\nNiz kaldrmu haljinu obući,\nhoću danas da izgledam lijepo.\n\nTeško da se može\nko na me naljutiti,\nnit’ Sebilj pomaknut,\nnit’ Miljacku zamutit’.\n\nTeško da se može\nko na me naljutit’,\nodu, dođu — ja sve ljepši,\nSarajevo me zovu.\n\nDugo, dugo već sam tu,\nbaš tu,\nuz ovu rijeku moji dani teku.\n\nZimi bijel sam,\nljeti ljubavi žedan,\nbaš k’o momak mlad i bijesan.\n\nTeško da se može\nko na me naljutit’,\nnit’ Sebilj pomaknut,\nnit’ Miljacku zamutit’.\n\nTeško da se može,\nodu, dođu - ja sve ljepši,\nSarajevo me zovu.\n\nOdu, dođu - ja sve ljepši,\nSarajevo me zovu."
+        },
+        {
+          "en": ""
+        },
+        {
+          "ba": ""
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=7u5flyZCSy0",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
+    },
+    {
+      "id": 205,
+      "title": "Sarajevo",
+      "artist": "LANA.S & ŽERA",
+      "year": 2022,
+      "genre": "pop",
+      "country": "",
+      "tags": [
+        "domaca",
+        "hop"
+      ],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/205.jpg",
+      "about": "",
+      "notes": "Album: Avantura\n\nGlazba / Music: Lana Škrgatić\nTekst / Lyrics: Lana Škrgatić i Ivan Puž\nAranžman / Arrangement: Lana Škrgatić, Dražen Žerić, Dragomir Herendić, Ivan Puž\nVokal, flauta, klavir / vocals, flute, keyboard: Lana Škrgatić\nVokal / vocals: Drazen Žerić- Žera\nHarmonika, klarinet / Accordion, clarinet: Mladen Kosovec\nViolina / violin: Petra Golik Brdek\nGitara, bas / guitar, bas: Dragomir Herendić\nBubnjevi / Drums: Ivan Puž",
+      "lyrics": [
+        {
+          "original": "Tog majskog dana krenula sam u bijeli svijet\nPotpuno sama, ovdje počinje preokret\nTi, ostao si u svijetu ludila\nU tvome gradu utihnula je muzika\n\nOvaj grad tebi je daleko\nI mahale pune nemira\nOvim mostovima hoda drugi netko\nTi dolaziš iz drugog svemira\n\nRf.\nSANJAM TAJ GRAD I TUGA NESTAJE\nSANJAM TAJ GRAD I SEVDAH BUDI SE \nGDJE TONOVI BEZ NOTA DOPIRU RAVNO DO SRCA\nI ŽELIM TI REĆI HVALA\nZA SVJETLA SARAJEVA\n\nNa kraju balade ipak vraćam se\nU svakom gradu lijepo je, a tu je najljepše\n\nTu čeka te samo prava raja\nI čaršije pune ljubavi\nTu Miljacka svaku dušu spaja\nSad došla si, sad ostani"
+        },
+        {
+          "en": ""
+        },
+        {
+          "ba": ""
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=-mSD59H-ud4",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
     }
   ]
 }
- 
