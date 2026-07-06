@@ -7838,6 +7838,45 @@
         "apple_music": "",
         "genius": ""
       }
+    },
+    {
+      "id": 210,
+      "title": "Kabadahija",
+      "artist": "Helem Nejse",
+      "year": 1993,
+      "genre": "rock",
+      "country": "",
+      "tags": [
+        "domaca",
+        "rock",
+        "war"
+      ],
+      "popularity": null,
+      "album": "",
+      "language": "",
+      "cover": "/assets/img/covers/209.jpg",
+      "about": "",
+      "notes": "Kabadahija ft. Marko Louis",
+      "lyrics": [
+        {
+          "original": "\nEna je došla u Sarajevo da studira FSK,\nBoris je s Čengić Vile, radi u SSH.\nUpoznali su se jednom kod jarana Samija,\nPoznatog u raji po pravljenju strašnih partija.\nPorukica, kafica, poljubac i rakija,\nNa seks ih je slučajno prenijelo ko Lakija.\nObostrana fizika kao jo-jo,\nOdma su znali da je to to.\nAl' Ena je još nešto od početka znala,\nOdakle dolazi i koja je mahala.\nOd majke Selmice i oca Fočo Kemice,\nIz mjesta Doboj, kod Kaknja, kod Zenice.\n\nTi si moj narod, religija, nacija,\nMoja politika i generacija.\nJedina država i okupacija,\nKlub za koji navijam i reprezentacija.\n\nPravdala se najboljoj drugarici Nini:\n„Nije musliman!“ -  „nisam ni ja izvini..“\nAl' problem je bio u tom što to nije smetalo njoj,\nNego kako to da rasčisti sa familijom.\nA jednu noć je baš Nina zvala,\nKod Samija na dernek, nekako je premuntala.\nTamo je bio i Boris, pjan, prepušen,\nOna je isto tako popila previše\nI samo od sebe, krenulo je sve opet,\nBio je kod nje od pet, ona kod njeg od pet do pet.\nAli kući kad se vratila za Bajram,\nStari je sazn'o, sazn'o je i cijeli Kakanj.\n\nTi si moj narod, religija, nacija,\nMoja politika i generacija.\nJedina država i okupacija,\nKlub za koji navijam i reprezentacija.\n\n„NISAM TI PLATIO FAKULTET DA SE KURVAŠ,\nVEĆ DA UČIŠ, JESIL ČULA ?\nU TURSKU ĆEŠ KOD TETKE, TAKO MI ALLAHA,\nU SARAJV'O SAM TE POSL'O MISLEĆI DA NEMA VLAHA!“\nAl' kad je Boris čuo za to, istrč'o je ljut,\nSjeo je u auto, pumpa pravac autoput.\nNedostupna, preko Nine, sazn'o je adresu,\n„Nemoš fulit, žuta kuća, čim prođeš česmu“\nRodica joj javila je za suludu špicu,\nKroz prozor pobjegla je, ušla je u dvicu.\nPravac Sarajevo – grad ispod Trebevića,\nGdje još uvijek ima pravo dobrih priča.\n\nTi si moj narod, religija, nacija,\nMoja politika i generacija.\nJedina država i okupacija,\nKlub za koji navijam i reprezentacija\n\nKabadahija, kakav kabadahija,\nKabadahija, kakav kabadahija."
+        },
+        {
+          "en": ""
+        },
+        {
+          "ba": ""
+        }
+      ],
+      "links": {
+        "youtube": "https://www.youtube.com/watch?v=CVTJSXaF6kw",
+        "discogs": "",
+        "wikipedia": "",
+        "spotify": "",
+        "amazon_music": "",
+        "apple_music": "",
+        "genius": ""
+      }
     }
   ]
 }
